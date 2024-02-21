@@ -81,6 +81,7 @@ $table_prefix = 'wpgw_';
  * @link https://wordpress.org/support/article/debugging-in-wordpress/
  */
 define( 'WP_DEBUG', false );
+define ('WPCF7_VALIDATE_CONFIGURATION', false);
 
 /* Add any custom values between this line and the "stop editing" line. */
 
